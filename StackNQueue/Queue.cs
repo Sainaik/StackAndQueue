@@ -30,6 +30,28 @@ namespace StackNQueue
             }
         }
 
+        internal void DeQueue()
+        {
+
+            Node temp = this.head;
+
+            if (temp == null)
+            {
+                Console.WriteLine("Queue is Empty");
+                return;
+            }
+
+            int data = temp.data;
+
+            Console.WriteLine(data + " is Dequeued ");
+
+            head = temp.next;
+
+
+
+
+        }
+
         internal void Display()
         {
             Console.WriteLine("Queue Data:");

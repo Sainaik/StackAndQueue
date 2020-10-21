@@ -28,6 +28,9 @@ namespace StackNQueue
             queue.Enqueue(30);
             queue.Enqueue(70);
             queue.Display();
+
+            queue.DeQueue();
+            queue.Display();
         }
     }
 }

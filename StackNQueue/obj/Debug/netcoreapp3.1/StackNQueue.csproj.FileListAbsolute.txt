@@ -1,0 +1,13 @@
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.exe
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.deps.json
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.runtimeconfig.json
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.runtimeconfig.dev.json
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.dll
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\bin\Debug\netcoreapp3.1\StackNQueue.pdb
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.csprojAssemblyReference.cache
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.AssemblyInfoInputs.cache
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.AssemblyInfo.cs
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.csproj.CoreCompileInputs.cache
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.dll
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.pdb
+C:\Users\saiku\source\repos\StackNQueue\StackNQueue\obj\Debug\netcoreapp3.1\StackNQueue.genruntimeconfig.cache
